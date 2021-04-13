@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <manifest>
-      <!-- vendor -->
+      <!-- kernel -->
       <project name="JamieHoSzeYui/android_kernel_xiaomi_sm6250" path="kernel/xiaomi/sm6250" remote="github" revision="wave" />
-      <project name="JamieHoSzeYui/vendor_xiaomi_sm6250-common" path="device/xiaomi/sm6250-common" remote="github" revision="wave" />
-      <project name="JamieHoSzeYui/vendor_xiaomi_miatoll" path="device/xiaomi/miatoll" remote="github" revision="wave" />
 
-      <!-- Pinned blobs for lilac -->
-      <!-- <project name="whatawurst/android_vendor_sony_lilac" path="vendor/sony/lilac" remote="github" revision="lineage-17.1" /> -->
+      <!-- device tree -->
+      <project name="JamieHoSzeYui/device_xiaomi_sm6250-common" path="device/xiaomi/sm6250-common" remote="github" revision="lineage-18.1" />
 
       <!-- Vendor -->
-      <!-- <project name="LineageOS/android_hardware_sony_timekeep" path="hardware/sony/timekeep" remote="github" revision="lineage-17.1" /> -->
-      <!-- <project name="sonyxperiadev/vendor-sony-oss-fingerprint" path="vendor/sony/oss/fingerprint" remote="github" revision="master" /> -->
-      <!-- <project name="sim1222/aex_vendor_sony_lilac" path="vendor/sony/lilac" remote="github" revision="10.x" /> -->
+      <project name="JamieHoSzeYui/vendor_xiaomi_sm6250-common" path="vendor/xiaomi/sm6250-common" remote="github" revision="wave" />
+      <project name="JamieHoSzeYui/vendor_xiaomi_miatoll" path="device/xiaomi/miatoll" remote="github" revision="wave" />
+      
 
   </manifest>
 
