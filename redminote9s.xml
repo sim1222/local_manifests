@@ -5,6 +5,7 @@
 
       <!-- device tree -->
       <project name="JamieHoSzeYui/device_xiaomi_sm6250-common" path="device/xiaomi/sm6250-common" remote="github" revision="lineage-18.1" />
+      <project name="JamieHoSzeYui/device_xiaomi_miatoll" path="device/xiaomi/miatoll" remote="github" revision="lineage-18.1" />
 
       <!-- Vendor -->
       <project name="JamieHoSzeYui/vendor_xiaomi_sm6250-common" path="vendor/xiaomi/sm6250-common" remote="github" revision="wave" />
