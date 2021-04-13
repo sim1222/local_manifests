@@ -8,7 +8,7 @@
 
       <!-- Vendor -->
       <project name="JamieHoSzeYui/vendor_xiaomi_sm6250-common" path="vendor/xiaomi/sm6250-common" remote="github" revision="wave" />
-      <project name="JamieHoSzeYui/vendor_xiaomi_miatoll" path="device/xiaomi/miatoll" remote="github" revision="wave" />
+      <project name="JamieHoSzeYui/vendor_xiaomi_miatoll" path="vendor/xiaomi/miatoll" remote="github" revision="wave" />
       
 
   </manifest>
