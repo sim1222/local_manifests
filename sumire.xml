@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <manifest>
+      <!-- kernel -->
+      <project name="Sony-MSM8994-Dev/android_kernel_sony_msm8994_rework" path="kernel/sony/msm8994" remote="github" revision="lineage-18.1" />
+
+      <!-- device tree -->
+      <project name="Sony-MSM8994-Dev/android_device_sony_kitakami-common" path="device/sony/kitakami-common" remote="github" revision="lineage-18.1" />
+      <project name="Sony-MSM8994-Dev/android_device_sony_sumire" path="device/sony/sumire" remote="github" revision="lineage-18.1" />
+
+      <!-- Vendor -->
+      <project name="Sony-MSM8994-Dev/proprietary_vendor_sony" path="vendor/sony" remote="github" revision="lineage-18.1" />
+      
+      <!-- ext -->
+      <project name="LineageOS/android_hardware_sony_timekeep" path="hardware/sony/timekeep" remote="github" revision="lineage-18.1" />
+      <project name="LineageOS/android_device_sony_common" path="device/sony/common" remote="github" revision="lineage-18.1" />
+
+  </manifest>
+
