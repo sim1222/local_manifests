@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <manifest>
+
+      <remote name="gitlab" fetch="https://gitlab.com/LeddaZ" />
       <!-- kernel -->
       <project name="JamieHoSzeYui/android_kernel_xiaomi_sm6250" path="kernel/xiaomi/sm6250" remote="github" revision="wave" />
 
       <!-- device tree -->
-      <project name="JamieHoSzeYui/device_xiaomi_sm6250-common" path="device/xiaomi/sm6250-common" remote="github" revision="lineage-18.1" />
-      <project name="JamieHoSzeYui/device_xiaomi_miatoll" path="device/xiaomi/miatoll" remote="github" revision="lineage-18.1" />
+      <project name="LeddaZ/android_device_xiaomi_curtana-unified" path="device/xiaomi/curtana-unified" remote="github" revision="lineage-17.1" />
 
       <!-- Vendor -->
-      <project name="JamieHoSzeYui/vendor_xiaomi_sm6250-common" path="vendor/xiaomi/sm6250-common" remote="github" revision="wave" />
-      <project name="JamieHoSzeYui/vendor_xiaomi_miatoll" path="vendor/xiaomi/miatoll" remote="github" revision="wave" />
+      <project name="proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="gitlab" revision="lineage-17.1" />
       
-
   </manifest>
 
