@@ -13,8 +13,8 @@
       <project name="proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="gitlabdev" revision="lineage-17.1" />
       
       <!-- ext -->
-      <project name="xiaomi-sm6250-devs/android_hardware_qcom_media" path="hardware/qcom-caf/sm8150/media" remote="github" revision="lineage-17.1-caf-sm8150" />
-      <project name="xiaomi-sm6250-devs/android_hardware_qcom_audio" path="hardware/qcom-caf/sm8150/audio" remote="github" revision="lineage-17.1-caf-sm8150" />
+      <project name="xiaomi-sm6250-devs/android_hardware_qcom_media" path="hardware/qcom/media" remote="github" revision="lineage-17.1-caf-sm8150" />
+      <project name="xiaomi-sm6250-devs/android_hardware_qcom_audio" path="hardware/qcom/audio" remote="github" revision="lineage-17.1-caf-sm8150" />
 
   </manifest>
 
