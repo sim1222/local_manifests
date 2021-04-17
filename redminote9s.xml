@@ -6,7 +6,7 @@
       <project name="JamieHoSzeYui/android_kernel_xiaomi_sm6250" path="kernel/xiaomi/sm6250" remote="github" revision="wave" />
 
       <!-- device tree -->
-      <project name="LeddaZ/android_device_xiaomi_curtana-unified" path="device/xiaomi/curtana-unified" remote="github" revision="lineage-17.1" />
+      <project name="LeddaZ/android_device_xiaomi_curtana-unified" path="device/xiaomi/curtana" remote="github" revision="lineage-17.1" />
 
       <!-- Vendor -->
       <project name="proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="gitlab" revision="lineage-17.1" />
