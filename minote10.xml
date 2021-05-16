@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <manifest>
+      <!-- kernel -->
+      <project name="alibei/android_kernel_xiaomi_sm6150-oss" path="kernel/xiaomi/sm6150" remote="github" revision="lineage-18.1" />
+
+      <!-- device tree -->
+      <project name="alibei/android_device_xiaomi_sm6150-common-oss" path="device/xiaomi/sm6150-common" remote="github" revision="lineage-18.1" />
+      <project name="erikdrozina/android_device_xiaomi_tucana-oss" path="device/xiaomi/tucana" remote="github" revision="arrow-11" />
+
+      <!-- Vendor 
+      <project name="JamieHoSzeYui/vendor_xiaomi_sm6250-common" path="vendor/xiaomi/sm6250-common" remote="github" revision="wave" />
+      -->
+      <project name="erikdrozina/android_vendor_xiaomi_tucana" path="vendor/xiaomi/tucana" remote="github" revision="eleven" />
+      
+
+  </manifest>
+
