@@ -6,8 +6,8 @@
       <project name="alibei/android_kernel_xiaomi_sm6150-oss" path="kernel/xiaomi/sm6150" remote="github" revision="lineage-18.1" />
 
       <!-- device tree -->
-      <project name="alibei/android_device_xiaomi_sm6150-common-oss" path="device/xiaomi/sm6150-common" remote="github" revision="lineage-18.1" />
-      <project name="alibei/android_device_xiaomi_tucana-oss" path="device/xiaomi/tucana" remote="github" revision="lineage-18.1" />
+      <project name="sim1222/android_device_xiaomi_sm6150-common-oss" path="device/xiaomi/sm6150-common" remote="github" revision="11" />
+      <project name="sim1222/android_device_xiaomi_tucana-oss" path="device/xiaomi/tucana" remote="github" revision="11" />
 
       <!-- Vendor 
       <project name="Wave-Project/vendor_xiaomi_sm6150-common" path="vendor/xiaomi/sm6150-common" remote="github" revision="r" />
