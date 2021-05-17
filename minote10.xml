@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <manifest>
+      <remote name="gitlab" fetch="https://gitlab.com"/>
+    
       <!-- kernel -->
       <project name="alibei/android_kernel_xiaomi_sm6150-oss" path="kernel/xiaomi/sm6150" remote="github" revision="lineage-18.1" />
 
