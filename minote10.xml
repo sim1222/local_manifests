@@ -15,7 +15,9 @@
       <project name="alibei/android_vendor_xiaomi-oss" path="vendor/xiaomi" remote="gitlab" revision="lineage-18.1"/>
       -->
       <project name="sim1222/android_vendor_xiaomi_tucana" path="vendor/xiaomi/tucana" remote="github" revision="11"/>
-      <project name="sim1222/android_vendor_xiaomi_sm6150-common" path="vendor/xiaomi/sm6150-common" remote="github" revision="11"/>
+      <!-- <project name="sim1222/android_vendor_xiaomi_sm6150-common" path="vendor/xiaomi/sm6150-common" remote="github" revision="11"/> -->
+      <project name="DerpFest-Devices/device_xiaomi_sm6150-common" path="vendor/xiaomi/sm6150-common" remote="github" revision="11"/>
+      
       
       <project name="alibei/android_hardware_xiaomi" path="hardware/xiaomi" remote="github" revision="lineage-18.1"/>
       
