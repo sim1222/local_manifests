@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <manifest>
       <!-- kernel -->
-      <project name="JamieHoSzeYui/android_kernel_xiaomi_sm6250" path="kernel/xiaomi/sm6250" remote="github" revision="wave" />
-
+      <project name="adiatul16/android_kernel_xiaomi_sm6250" path="kernel/xiaomi/sm6250" remote="github" revision="11.0" />
+          
       <!-- device tree -->
-      <project name="JamieHoSzeYui/device_xiaomi_sm6250-common" path="device/xiaomi/sm6250-common" remote="github" revision="lineage-18.1" />
-      <project name="JamieHoSzeYui/device_xiaomi_miatoll" path="device/xiaomi/miatoll" remote="github" revision="lineage-18.1" />
+      <project name="adiatul16/android_device_xiaomi_sm6250-common" path="device/xiaomi/sm6250-common" remote="github" revision="11.0-HMP" />
+      <project name="adiatul16/android_device_xiaomi_miatoll" path="device/xiaomi/miatoll" remote="github" revision="11.0-HMP" />
 
       <!-- Vendor -->
-      <project name="JamieHoSzeYui/vendor_xiaomi_sm6250-common" path="vendor/xiaomi/sm6250-common" remote="github" revision="wave" />
-      <project name="JamieHoSzeYui/vendor_xiaomi_miatoll" path="vendor/xiaomi/miatoll" remote="github" revision="wave" />
+      <project name="adiatul16/android_vendor_xiaomi_sm6250-common" path="vendor/xiaomi/sm6250-common" remote="github" revision="11.0-HMP" />
+      <project name="adiatul16/android_vendor_xiaomi_miatoll" path="vendor/xiaomi/miatoll" remote="github" revision="havoc" />
       
 
   </manifest>
