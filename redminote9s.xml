@@ -9,7 +9,7 @@
 
       <!-- Vendor -->
       <project name="adiatul16/android_vendor_xiaomi_sm6250-common" path="vendor/xiaomi/sm6250-common" remote="github" revision="11.0-HMP" />
-      <project name="adiatul16/android_vendor_xiaomi_miatoll" path="vendor/xiaomi/miatoll" remote="github" revision="havoc" />
+      <project name="adiatul16/android_vendor_xiaomi_miatoll" path="vendor/xiaomi/miatoll" remote="github" revision="11.0-EAS" />
       
 
   </manifest>
