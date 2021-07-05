@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <manifest>
+
+      <remote name="gitlab" fetch="https://gitlab.com/" />
+
       <!-- kernel -->
       <project name="adiatul16/android_kernel_xiaomi_sm6250" path="kernel/xiaomi/sm6250" remote="github" revision="11.0" />
-      <!-- <project name="ArrowOS-Devices/android_kernel_xiaomi_sm6250" path="kernel/xiaomi/sm6250" remote="github" revision="arrow-11.0" /> -->
-    
+      
           
       <!-- device tree -->
       <project name="adiatul16/android_device_xiaomi_sm6250-common" path="device/xiaomi/sm6250-common" remote="github" revision="11.0-QTI" />
@@ -11,8 +13,15 @@
 
       <!-- Vendor -->
       <project name="adiatul16/android_vendor_xiaomi_sm6250-common" path="vendor/xiaomi/sm6250-common" remote="github" revision="11.0-QTI" />
-      <!-- <project name="adiatul16/android_vendor_xiaomi_miatoll" path="vendor/xiaomi/miatoll" remote="github" revision="11.0-EAS" />
-      <project name="ArrowOS-Devices/android_vendor_xiaomi_miatoll" path="vendor/xiaomi/miatoll" remote="github" revision="arrow-11.0" /> -->
+      <project name="adiatul16/android_vendor_xiaomi_miatoll" path="vendor/xiaomi/miatoll" remote="github" revision="11.0-EAS" />
+
+      <!-- extra -->
+      <remove-project name="crdroidandroid/android_vendor_qcom_opensource_power" />
+      <project name="adiatul16/android_vendor_qcom_opensource_power" path="vendor/qcom/opensource/power" remote="github" revision="11.0" />
+
+      <project name="kdrag0n/proton-clang" path="prebuilts/clang/host/linux-x86/clang-proton" remote="github" revision="master" />
+
+      <project name="adiatul16/proprietary_vendor_partner_gms" path="vendor/partner_gms" remote="gitlab" revision="11.0" />      
       
 
   </manifest>
