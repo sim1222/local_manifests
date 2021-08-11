@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <manifest>
       <!-- kernel -->
-      <project name="Ramisky/kernel_xiaomi_sm6250" path="kernel/xiaomi/sm6250" remote="github" revision="fluid-11" />
+      <project name="PixelPlusUI-Devices/kernel_xiaomi_sm6250" path="kernel/xiaomi/sm6250" remote="github" revision="eleven" />
+      <!-- <project name="Ramisky/kernel_xiaomi_sm6250" path="kernel/xiaomi/sm6250" remote="github" revision="fluid-11" /> -->
       <!-- <project name="ArrowOS-Devices/android_kernel_xiaomi_sm6250" path="kernel/xiaomi/sm6250" remote="github" revision="arrow-11.0" /> -->
     
           
       <!-- device tree -->
-      <project name="Ramisky/device_xiaomi_sm6250-common" path="device/xiaomi/sm6250-common" remote="github" revision="fluid-11" />
-      <project name="Ramisky/device_xiaomi_miatoll" path="device/xiaomi/miatoll" remote="github" revision="fluid-11" />
+      <!-- <project name="Ramisky/device_xiaomi_sm6250-common" path="device/xiaomi/sm6250-common" remote="github" revision="fluid-11" />
+      <project name="Ramisky/device_xiaomi_miatoll" path="device/xiaomi/miatoll" remote="github" revision="fluid-11" /> -->
+      <project name="PixelPlusUI-Devices/device_xiaomi_sm6250-common" path="device/xiaomi/sm6250-common" remote="github" revision="eleven" />
+      <project name="PixelPlusUI-Devices/device_xiaomi_miatoll" path="device/xiaomi/miatoll" remote="github" revision="eleven" />
 
       <!-- Vendor -->
-      <project name="Ramisky/vendor_xiaomi_sm6250-common" path="vendor/xiaomi/sm6250-common" remote="github" revision="fluid-11" />
-      <project name="Ramisky/vendor_xiaomi_miatoll" path="vendor/xiaomi/miatoll" remote="github" revision="fluid-11" />
+      <project name="PixelPlusUI-Devices/vendor_xiaomi_sm6250-common" path="vendor/xiaomi/sm6250-common" remote="github" revision="eleven" />
+      <project name="PixelPlusUI-Devices/vendor_xiaomi_miatoll" path="vendor/xiaomi/miatoll" remote="github" revision="eleven" />
+      <!-- <project name="Ramisky/vendor_xiaomi_sm6250-common" path="vendor/xiaomi/sm6250-common" remote="github" revision="fluid-11" />
+      <project name="Ramisky/vendor_xiaomi_miatoll" path="vendor/xiaomi/miatoll" remote="github" revision="fluid-11" /> -->
       <!-- <project name="ArrowOS-Devices/android_vendor_xiaomi_miatoll" path="vendor/xiaomi/miatoll" remote="github" revision="arrow-11.0" /> -->
       
 
