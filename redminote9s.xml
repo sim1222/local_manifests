@@ -13,8 +13,8 @@
       <project name="PixelExperience-Devices/device_xiaomi_miatoll" path="device/xiaomi/miatoll" remote="github" revision="eleven" />
 
       <!-- Vendor -->
-      <project name="PixelExperience-Devices/vendor_xiaomi_sm6250-common" path="vendor/xiaomi/sm6250-common" remote="github" revision="eleven" />
-      <project name="PixelExperience-Devices/vendor_xiaomi_miatoll" path="vendor/xiaomi/miatoll" remote="github" revision="eleven" />
+      <project name="PixelPlusUI-Devices/vendor_xiaomi_sm6250-common" path="vendor/xiaomi/sm6250-common" remote="github" revision="eleven" />
+      <project name="PixelPlusUI-Devices/vendor_xiaomi_miatoll" path="vendor/xiaomi/miatoll" remote="github" revision="eleven" />
       <!-- <project name="Ramisky/vendor_xiaomi_sm6250-common" path="vendor/xiaomi/sm6250-common" remote="github" revision="fluid-11" />
       <project name="Ramisky/vendor_xiaomi_miatoll" path="vendor/xiaomi/miatoll" remote="github" revision="fluid-11" /> -->
       <!-- <project name="ArrowOS-Devices/android_vendor_xiaomi_miatoll" path="vendor/xiaomi/miatoll" remote="github" revision="arrow-11.0" /> -->
