@@ -26,9 +26,9 @@
       <remove-project name="crdroidandroid/android_hardware_qcom_audio" />
       <remove-project name="crdroidandroid/android_hardware_qcom_display" />
       <remove-project name="crdroidandroid/android_hardware_qcom_media" />
-      <project name="adiatul16/android_hardware_qcom_audio" path="hardware/qcom-caf/sm8150/audio" remote="gitlab" revision="11.0-caf-sm8150" />
-      <project name="adiatul16/android_hardware_qcom_display" path="hardware/qcom-caf/sm8150/display" remote="gitlab" revision="11.0-caf-sm8150" />
-      <project name="adiatul16/android_hardware_qcom_media" path="hardware/qcom-caf/sm8150/media" remote="gitlab" revision="11.0-caf-sm8150" />
+      <project name="adiatul16/android_hardware_qcom_audio" path="hardware/qcom-caf/sm8150/audio" remote="github" revision="11.0-caf-sm8150" />
+      <project name="adiatul16/android_hardware_qcom_display" path="hardware/qcom-caf/sm8150/display" remote="github" revision="11.0-caf-sm8150" />
+      <project name="adiatul16/android_hardware_qcom_media" path="hardware/qcom-caf/sm8150/media" remote="github" revision="11.0-caf-sm8150" />
 
       <project name="AOSPA/android_device_qcom_common" path="device/qcom/common" remote="github" revision="ruby" />
       <project name="ThankYouMario/proprietary_vendor_qcom_common" path="vendor/qcom/common" remote="github" revision="ruby" />
