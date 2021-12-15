@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <manifest>
+      <!-- kernel -->
+      <project name="PixelExperience-Devices/kernel_xiaomi_tucana" path="kernel/xiaomi/tucana" remote="github" revision="twelve-wip" />
+    
+      <!-- device tree -->
+      <project name="PixelExperience-Devices/device_xiaomi_sm6150-common" path="device/xiaomi/sm6150-common" remote="github" revision="twelve-wip" />
+      <project name="PixelExperience-Devices/device_xiaomi_tucana" path="device/xiaomi/ticana" remote="github" revision="twelve-wip" />
+
+      <!-- Vendor -->
+      <project name="vendor_xiaomi_tucana" path="vendor/xiaomi/tucana" remote="pixel-devices-blobs" revision="eleven" />
+      
+
+  </manifest>
+
