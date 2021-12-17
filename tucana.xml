@@ -11,8 +11,9 @@
       <project name="vendor_xiaomi_tucana" path="vendor/xiaomi/tucana" remote="pixel-devices-blobs" revision="eleven" />
       <project name="vendor_xiaomi_sm6150-common" path="vendor/xiaomi/sm6150-common" remote="pixel-devices-blobs" revision="eleven" />
 
-      <!-- Extra -->
+      <!-- Extra
       <project name="hardware_xiaomi" path="hardware/xiaomi" remote="pixel" revision="twelve" />
+      -->
      
 
   </manifest>
