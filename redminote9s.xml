@@ -11,6 +11,14 @@
       <!-- Vendor -->
       <project name="PixelPlusUI-Devices/vendor_xiaomi_sm6250-common" path="vendor/xiaomi/sm6250-common" remote="github" revision="twelve" />
       <project name="PixelPlusUI-Devices/vendor_xiaomi_miatoll" path="vendor/xiaomi/miatoll" remote="github" revision="twelve" />
+
+      <!-- Extra -->
+      <project name="ArrowOS-Devices/android_device_xiaomi_extras" path="device/xiaomi/extras" remote="github" revision="arrow-12.0" />
+      <project name="ArrowOS-Devices/android_packages_apps_GCamGOPrebuilt" path="packages/apps/GCamGOPrebuilt" remote="github" revision="arrow-12.0" />
+      <project name="ArrowOS-Devices/android_hardware_xiaomi" path="hardware/xiaomi" remote="github" revision="arrow-12.0" />
+      <project name="Panchajanya1999/azure-clang" path="prebuilts/clang/host/linux-x86/clang-azure" remote="gitlab" revision="main" />
+      <project name="SonalSingh18/vendor_xiaomi_miuicamera" path="vendor/xiaomi/miuicamera" remote="github" revision="master" />
+
       
 
   </manifest>
