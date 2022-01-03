@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <manifest>
+
+      <remote name="gitlab" fetch="https://gitlab.com/" />
+
       <!-- kernel -->
       <project name="PixelPlusUI-Devices/kernel_xiaomi_sm6250" path="kernel/xiaomi/sm6250" remote="github" revision="twelve" />
     
